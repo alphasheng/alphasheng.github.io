@@ -1,6 +1,6 @@
 
 # 📝 发表论文
-- Pengfeng Xiao*, Guangwei Sheng, Xueliang Zhang, Hao Liu, Rui Guo. Direction-dominated change vector analysis for forest change detection. International Journal of Applied Earth Observation and Geoinformation, 2021, 103: 102492.
+- Pengfeng Xiao*, Guangwei Sheng, Xueliang Zhang, Hao Liu, Rui Guo. [Direction-dominated change vector analysis for forest change detection. International Journal of Applied Earth Observation and Geoinformation](https://alphasheng.github.io/pdfs/Direction-dominated change vector analysis for forest change detection.pdf), 2021, 103: 102492.
 - 盛光伟, 肖鹏峰*, 张学良, 冯学智, 杨永可, 胡瑞, 刘豪, 张正. 新疆天山及北疆地区积雪反照率差异. 干旱区地理, 2019, 42(4): 774–781.
 - 刘豪, 肖鹏峰*, 张学良, 冯学智, 杨永可, 胡瑞, 张正, 盛光伟. 东北地区积雪反照率特性. 冰川冻土, 2019, 41(3): 554–562.
 - 张正, 肖鹏峰*, 张学良, 冯学智, 杨永可, 胡瑞, 盛光伟, 刘豪. 青藏高原融雪期积雪反照率特性分析. 遥感技术与应用, 2019, 34(6): 1146–1154.
