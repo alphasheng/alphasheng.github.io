@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "AlphaSheng"
-description              : "AVP、HD高精地图工艺和生产平台设计，主要方向为自动化制图、多源地图更新"
+description              : "AVP&HD高精地图工艺、生产平台设计，主要方向为自动化制图、多源地图更新"
 repository               : "alphasheng/alphasheng.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,8 +24,8 @@ author:
   name             : "盛光伟"
   avatar           : "images/sheng_profile.jpg"
   bio              : "工艺工程师"
-  location         : "Beijing"
-  employer         : "NavInfo"
+  location         : "NavInfo"
+  employer         : "Beijing"
   pubmed           : 
   googlescholar    : 
   email            : "shenggw2019@163.com"
