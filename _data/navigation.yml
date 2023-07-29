@@ -6,17 +6,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Patents"
-    url: "/#-patents"
-
-    - title: "Software Copyrights"
-    url: "/#-software-copyrights"
-
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
-
-    - title: "Research Projects"
-    url: "/#-research-projects"
