@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "盛光伟"
-description              : "AVP&HD高精地图工艺设计，主要方向为自动化制图、多源地图更新"
+title                    : "AlphaSheng"
+description              : "AVP、HD高精地图工艺和生产平台设计，主要方向为自动化制图、多源地图更新"
 repository               : "alphasheng/alphasheng.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,10 +22,10 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "盛光伟"
-  avatar           : "images/sheng_profile.jpeg"
-  bio              : "四维图新-工艺工程师"
+  avatar           : "images/sheng_profile.jpg"
+  bio              : "工艺工程师"
   location         : "Beijing"
-  employer         :
+  employer         : "NavInfo"
   pubmed           : 
   googlescholar    : 
   email            : "shenggw2019@163.com"
