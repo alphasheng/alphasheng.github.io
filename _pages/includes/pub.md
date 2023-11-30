@@ -1,7 +1,9 @@
 
 # 👨‍💻 Professional Experience
-- AVP停车场自动化能力建设
-- HD地图多源融合更新
+- AVP停车场地图：主要负责数据采集、数据预处理（解算、精度优化等）、矢量化、自动录入等工艺流程设计，及相关功能的工程化落地
+  <img src="https://github.com/alphasheng/alphasheng.github.io/images/parking.jpg" style="width:50%;height:auto;">
+- HD地图：主要负责矢量化、HD&SD道路匹配等工艺流程设计，及相关功能的工程化落地
+- SD地图：主要负责图像源数据获取任务生成规则设计，图像端上&云端要素识别等环节的设计
 
 # 📝 Publications
 - Pengfeng Xiao*, Guangwei Sheng, Xueliang Zhang et al.. [Direction-dominated change vector analysis for forest change detection.](https://alphasheng.github.io/pdfs/Direction-dominated change vector analysis for forest change detection.pdf), International Journal of Applied Earth Observation and Geoinformation, 2021.
