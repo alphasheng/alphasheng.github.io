@@ -1,14 +1,14 @@
 
 # 👨‍💻 Professional Experience
-- AVP停车场地图：主要负责数据采集、数据预处理（解算、精度优化等）、矢量化、自动录入等工艺流程设计，及相关功能的工程化落地
+- 【基于多源感知的城市道路建图】主导城市道路感知建图工艺设计，通过搭建要素感知识别、矢量化、自动成图、众源更新等节点，支持城市道路自动建图
+  
+  <div align=center> <img src="https://alphasheng.github.io/images/hdlite.jpg" style="width:70%;height:auto;"></div>
+  
+- 【AVP停车场感知建图平台搭建】主导AVP停车场感知建图工艺设计，通过搭建数据采集、数据预处理、要素感知矢量化、平台自动录入等节点，支持AVP停车场自动建图
   
   <div align=center> <img src="https://alphasheng.github.io/images/parking.jpg" style="width:70%;height:auto;"></div>
 
-- HD地图：主要负责矢量化、HD&SD道路匹配等工艺流程设计，及相关功能的工程化落地
-- SD地图：主要负责图像源数据获取任务生成规则设计，图像端上&云端要素识别等环节的设计
-- 2020.07 - 2021.06，导航地图多源更新能力建设
--- 负责地图道路图像更新任务设计，通过构建SD路网拼接规则，源匹配率提高至95%+，支持地图鲜度从月度级提高至天级
--- 通过分析核心要素失效场景，提出感知优化方案并推进落地，识别冗余率降低80%+，准召率达90%+，支持要素级的地图更新
+- 【导航地图多源更新能力建设】负责地图道路图像更新任务设计，通过构建SD路网拼接规则，分析核心要素失效场景，支持地图要素鲜度从月度级提高至天级
 
 # 📝 Publications
 - Pengfeng Xiao*, Guangwei Sheng, Xueliang Zhang et al.. [Direction-dominated change vector analysis for forest change detection.](https://alphasheng.github.io/pdfs/Direction-dominated change vector analysis for forest change detection.pdf), International Journal of Applied Earth Observation and Geoinformation, 2021.
