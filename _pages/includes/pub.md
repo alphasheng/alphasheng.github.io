@@ -6,6 +6,9 @@
 
 - HD地图：主要负责矢量化、HD&SD道路匹配等工艺流程设计，及相关功能的工程化落地
 - SD地图：主要负责图像源数据获取任务生成规则设计，图像端上&云端要素识别等环节的设计
+- 2020.07 - 2021.06，导航地图多源更新能力建设
+-- 负责地图道路图像更新任务设计，通过构建SD路网拼接规则，源匹配率提高至95%+，支持地图鲜度从月度级提高至天级
+-- 通过分析核心要素失效场景，提出感知优化方案并推进落地，识别冗余率降低80%+，准召率达90%+，支持要素级的地图更新
 
 # 📝 Publications
 - Pengfeng Xiao*, Guangwei Sheng, Xueliang Zhang et al.. [Direction-dominated change vector analysis for forest change detection.](https://alphasheng.github.io/pdfs/Direction-dominated change vector analysis for forest change detection.pdf), International Journal of Applied Earth Observation and Geoinformation, 2021.
