@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "AlphaSheng"
-description              : "AVP&HD高精地图工艺、生产平台设计，主要方向为自动化制图、多源地图更新"
+description              : "基于多源感知的道路模型建模、感知信息与地图匹配融合，主要方向为深度学习在感知建图领域的应用"
 repository               : "alphasheng/alphasheng.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :
 author:
   name             : "盛光伟"
   avatar           : "images/sheng_profile.jpg"
-  bio              : "工艺工程师"
+  bio              : "数据产品经理｜测绘中级工程师"
   location         : "NavInfo"
   employer         : "Beijing"
   pubmed           : 
